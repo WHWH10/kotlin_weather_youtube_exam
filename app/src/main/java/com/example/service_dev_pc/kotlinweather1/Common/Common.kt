@@ -8,7 +8,7 @@ import java.util.*
  */
 
 object Common{
-    val API_KEY = "cd5cdde7540667a9e3ebaa0dabc2ac67"
+    val API_KEY = ""
     val API_LINK = "http://api.openweathermap.org/data/2.5/weather"
 
     fun apiRequest(lat:String, lng:String):String{
